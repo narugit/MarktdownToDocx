@@ -13,7 +13,7 @@ Covert markdown files into a docx file
 ## Usage
 
 1. Launch Windows PowerShell.
-1. Change directory where `.md` files are places.
+1. Change directory where `.md` files are placed.
 1. `$ mtd`
 
 ## License
